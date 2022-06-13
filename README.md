@@ -1,0 +1,1 @@
+# MOABB-to-NY-format
