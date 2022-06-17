@@ -1,6 +1,6 @@
 # MOABB-to-NY-format
 
-## NY format:
+## NY format
 This format has been conceived for easily sharing EEG data in Python and Julia. Each file is understood as a separate recording. Data consist of two files and They have the same name and extensions `npz` and `yml` as you can see below.
 
 ![image](https://user-images.githubusercontent.com/95529379/174257112-5c1e8d80-b0dc-4c47-b1bc-9288a7e83c82.png)
