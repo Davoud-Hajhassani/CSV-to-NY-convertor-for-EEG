@@ -29,7 +29,7 @@ The `yml` file should be provided for all the files within the data set. in this
 As mentioned it above, The 'npz' file holds the EEG data including data and stim. `npz` contains data matrix and stim vector (['data','stim']). The data matrix contains columns 2 to 33 except the reference or ground columns (the fourth column in this data set).Furthermore, the stim vector contains the sum of the Trigger and Target columns (34 and 35 in this data set).
 
 ## Note
-currenly this code only accept the data sets in the format of `csv` with the same structure in bi2015a. For more details, please check the documentaion of the Data set in https://hal.archives-ouvertes.fr/hal-02172347.  
+currenly this code only accept the data sets in the format of `csv` with the same data structure in bi2015a. For more details, please check the documentaion of the Data set in https://hal.archives-ouvertes.fr/hal-02172347.  
 
 
 
